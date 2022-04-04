@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GamingReflexThePenguin
+- 👋 Hi, I’m @softiscold
 - 👀 I’m interested in creating discord js bots and minecraft mods 
 - 🌱 I’m currently learning discord js and minecraft mods
 - 📫 You can reach me on discord **soft#1979**
